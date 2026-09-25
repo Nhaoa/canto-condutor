@@ -1,7 +1,7 @@
 # O Problema do Canto Condutor: Simulação Interativa e Transposição Informática
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/SEU-REPOSITORIO/blob/main/cantoscondutores.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEU-USUARIO/SEU-REPOSITORIO/main?urlpath=voila%2Frender%2Fcantoscondutores.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/cantoscondutores.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/main?urlpath=voila%2Frender%2Fcantoscondutores.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab%20%2F%20Lite-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -54,14 +54,14 @@ Clone o repositório e instale as dependências:
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
+git clone https://github.com/Nhaoa/canto-condutor.git
+cd canto-condutor
 
-# Criar e ativar ambiente virtual (opcional)
+# Criar e ativar o ambiente virtual (opcional)
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 
-# Instalar dependências
+# Instalar as dependências
 pip install -r requirements.txt
 
 # Iniciar o JupyterLab
