@@ -1,7 +1,7 @@
 # O Problema do Canto Condutor: Simulação Interativa e Transposição Informática
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/cantoscondutores.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/HEAD?urlpath=voila%2Frender%2Fcantoscondutores.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/canto_condutor.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/HEAD?urlpath=voila%2Frender%2Fcanto_condutor.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab%20%2F%20Lite-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -43,9 +43,9 @@ $$\gamma(\beta) = \frac{\pi}{\beta} - 1$$
 
 ### 1. Online (Sem necessidade de instalação)
 - **Modo Aplicação Web (Voilà via MyBinder - Recomendado):**  
-  Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/HEAD?urlpath=voila%2Frender%2Fcantoscondutores.ipynb) para interagir diretamente com o simulador, sem exibição do código-fonte.
+  Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/HEAD?urlpath=voila%2Frender%2Fcanto_condutor.ipynb) para interagir diretamente com o simulador sem células de código visíveis.
 - **Modo Caderno Interativo (Google Colaboratory):**  
-  Clique em [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/cantoscondutores.ipynb) e execute as células sequencialmente (`Ctrl + F9`).
+  Clique em [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/canto_condutor.ipynb) e execute as células sequencialmente (`Ctrl + F9`).
 
 ### 2. Localmente (Terminal / JupyterLab)
 ```bash
