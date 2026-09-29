@@ -1,0 +1,6 @@
+{
+  "VoilaConfiguration": {
+    "show_tracebacks": true,
+    "timeout": 180
+  }
+}
