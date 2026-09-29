@@ -1,6 +1,6 @@
 # O Problema do Canto Condutor: Simulação Interativa e Transposição Informática
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/main/canto_condutor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nhaoa/canto-condutor/blob/master/canto_condutor.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nhaoa/canto-condutor/HEAD?urlpath=voila%2Frender%2Fcanto_condutor.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab%20%2F%20Lite-orange.svg)](https://jupyter.org/)
